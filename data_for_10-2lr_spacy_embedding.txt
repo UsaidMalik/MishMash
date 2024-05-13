@@ -1,0 +1,24 @@
+Drive already mounted at /content/gdrive; to attempt to forcibly remount, call drive.mount("/content/gdrive", force_remount=True).
+on epoch 1
+['ÿzÿzÿzÿzpppppppppppppppppppppppppppppppppppppppppppppppppppppppp']
+Epoch: 1/50, Step: 1000, D Loss: 4.247164270054782e-06, G Loss: -1.0334605393680363e-10 time: 
+Epoch: 2/50, Step: 1500, D Loss: 1.3800340070702077e-07, G Loss: -1.6729084784117276e-10 time: 
+Epoch: 4/50, Step: 2000, D Loss: 5.590388951759451e-08, G Loss: -2.5562990960126264e-11 time: 
+on epoch 5
+['kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk']
+Epoch: 5/50, Step: 2500, D Loss: 1.1203083793986934e-08, G Loss: -2.8842159563446934e-11 time: 
+Epoch: 7/50, Step: 3000, D Loss: 1.865594789762781e-08, G Loss: -2.77068489679122e-11 time: 
+Epoch: 9/50, Step: 3500, D Loss: 3.696201678060618e-11, G Loss: -3.143474369693422e-11 time: 
+on epoch 10
+['jjjjüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüü']
+Epoch: 10/50, Step: 4000, D Loss: 2.825482543741897e-17, G Loss: -5.5140289713763793e-14 time: 
+Epoch: 12/50, Step: 4500, D Loss: 7.533946801966198e-20, G Loss: -6.322462600465008e-20 time: 
+Epoch: 13/50, Step: 5000, D Loss: 3.1249412095784095e-23, G Loss: -3.1249412095784095e-23 time: 
+on epoch 15
+['xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx']
+Epoch: 15/50, Step: 5500, D Loss: 1.0186700920926362e-15, G Loss: -8.627878216624411e-25 time: 
+Epoch: 17/50, Step: 6000, D Loss: 1.1899510595766516e-16, G Loss: -3.607545327692546e-24 time: 
+Epoch: 18/50, Step: 6500, D Loss: 6.13452571126454e-23, G Loss: -8.906196232595436e-25 time: 
+on epoch 20
+['bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb']
+Epoch: 20/50, Step: 7000, D Loss: 4.7117726342926315e-21, G Loss: -6.811655158326261e-25 time: 
