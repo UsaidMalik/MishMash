@@ -1,0 +1,34 @@
+Drive already mounted at /content/gdrive; to attempt to forcibly remount, call drive.mount("/content/gdrive", force_remount=True).
+Epoch: 0/50, Step: 0, D Loss: 9.805834409078038e-17, G Loss: -7.451346903712572e-25 time: 
+on epoch 1
+['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+Epoch: 1/50, Step: 500, D Loss: 1.141604060900892e-18, G Loss: -4.194114686683207e-24 time: 
+Epoch: 3/50, Step: 1000, D Loss: 5.1535509854401585e-23, G Loss: -6.403864853247772e-25 time: 
+Epoch: 4/50, Step: 1500, D Loss: 6.403864853247772e-25, G Loss: -6.403864853247772e-25 time: 
+on epoch 5
+['iiiëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëë']
+Epoch: 6/50, Step: 2000, D Loss: 1.0242007062247652e-22, G Loss: -6.403108039816825e-25 time: 
+Epoch: 8/50, Step: 2500, D Loss: 5.152725205844573e-23, G Loss: -3.7243165894056307e-22 time: 
+Epoch: 9/50, Step: 3000, D Loss: 6.402839334070984e-25, G Loss: -1.024142204300034e-22 time: 
+on epoch 10
+['àààààààààààààààààààààààààààààààààààààààààààààààààààààààààààà']
+Epoch: 11/50, Step: 3500, D Loss: 8.101334541040755e-19, G Loss: -1.0241383546588165e-22 time: 
+Epoch: 12/50, Step: 4000, D Loss: 1.5330061451082206e-22, G Loss: -7.309436937013095e-16 time: 
+Epoch: 14/50, Step: 4500, D Loss: 6.402839334070984e-25, G Loss: -1.7123267244216953e-24 time: 
+on epoch 15
+['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+Epoch: 16/50, Step: 5000, D Loss: 7.254523918770917e-22, G Loss: -4.157840890108882e-24 time: 
+Epoch: 17/50, Step: 5500, D Loss: 1.5330060188904758e-22, G Loss: -5.152705957638486e-23 time: 
+Epoch: 19/50, Step: 6000, D Loss: 1.0241383546588165e-22, G Loss: -5.152705957638486e-23 time: 
+on epoch 20
+['vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv']
+Epoch: 20/50, Step: 6500, D Loss: 5.256377426713907e-23, G Loss: -6.402839334070984e-25 time: 
+Epoch: 22/50, Step: 7000, D Loss: 6.395663165023802e-25, G Loss: -5.147221165536665e-23 time: 
+Epoch: 24/50, Step: 7500, D Loss: 4.1904922374064324e-23, G Loss: -5.7974975507263915e-25 time: 
+on epoch 25
+['llwwwààààààààààààààààààààààààààààààààààààààààààààààààààààààà']
+Epoch: 25/50, Step: 8000, D Loss: 5.514457709199553e-25, G Loss: -5.514457709199553e-25 time: 
+Epoch: 27/50, Step: 8500, D Loss: 4.079695461090693e-23, G Loss: -1.6940941767497747e-24 time: 
+Epoch: 28/50, Step: 9000, D Loss: 4.1700869301432615e-23, G Loss: -2.42364374427374e-18 time: 
+on epoch 30
+['æææææëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëë']
