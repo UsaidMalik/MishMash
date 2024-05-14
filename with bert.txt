@@ -1,0 +1,7 @@
+Epoch: 0/50, Step: 0, D Loss: 1.4138685464859009, G Loss: -0.6361989974975586 time: 
+on epoch 1
+['mmuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu']
+on epoch 5
+['    ùùùëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëë']
+on epoch 10
+['qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq']
