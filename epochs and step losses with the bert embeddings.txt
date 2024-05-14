@@ -1,0 +1,35 @@
+Epoch: 0/50, Step: 0, D Loss: 1.5116262435913086, G Loss: -0.6157708764076233 time: 
+on epoch 1
+['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+on epoch 5
+['ôôôôrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr']
+Epoch: 6/50, Step: 500, D Loss: 0.3741908371448517, G Loss: -5.670180797576904 time: 
+on epoch 10
+['                                                            ']
+Epoch: 12/50, Step: 1000, D Loss: 0.4171394109725952, G Loss: -6.640296936035156 time: 
+on epoch 15
+['ùùùüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüü']
+Epoch: 19/50, Step: 1500, D Loss: 0.41705381870269775, G Loss: -6.607815265655518 time: 
+on epoch 20
+['ühhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh']
+on epoch 25
+['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+Epoch: 25/50, Step: 2000, D Loss: 0.43326666951179504, G Loss: -6.6704020500183105 time: 
+on epoch 30
+['nhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh']
+Epoch: 32/50, Step: 2500, D Loss: 0.44407856464385986, G Loss: -7.777468681335449 time: 
+Epoch: 38/50, Step: 3000, D Loss: 0.49280425906181335, G Loss: -7.976546764373779 time: 
+Epoch: 44/50, Step: 3500, D Loss: 0.4386473298072815, G Loss: -6.9292826652526855 time: 
+on epoch 50
+['nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn']
+
+
+Results with Bert Embeddings: 
+Epoch 1: ['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+Epoch 5: ['ôôôôrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr']
+Epoch 10: ['                                                            ']
+Epoch 15: ['ùùùüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüü']
+Epoch 20: ['ühhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh']
+Epoch 25: ['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+Epoch 30: ['nhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh']
+Epoch 50: ['nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn']

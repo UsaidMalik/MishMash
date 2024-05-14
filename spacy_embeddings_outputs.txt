@@ -1,0 +1,14 @@
+Epochs and generated text sequences For spacy embeddings: 
+
+Epoch 1: ['ÿzÿzÿzÿzpppppppppppppppppppppppppppppppppppppppppppppppppppppppp']
+Epoch 5: ['kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk']
+Epoch 10: ['jjjjüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüü']
+Epoch 15: ['xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx']
+Epoch 20: ['bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb']
+Epoch 21: ['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+Epoch 25: ['iiiëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëë']
+Epoch 30: ['àààààààààààààààààààààààààààààààààààààààààààààààààààààààààààà']
+Epoch 35: ['yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy']
+Epoch 40: ['vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv']
+Epoch 45: ['llwwwààààààààààààààààààààààààààààààààààààààààààààààààààààààà']
+Epoch 50: ['æææææëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëëë']
