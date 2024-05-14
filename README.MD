@@ -2,7 +2,9 @@ Instructions for running the Pytorch file
 
 These are the instructions for running the code in the Jupyter notebooks. In this repo you will find three Jupyter notebooks. final_project baiyuo tensforflow.ipynb, final_project_pytorch_spacy.ipynb, and final_project_pytorch_bert.ipynb. Our intiial code was in tensor flow and we had based our file loading and development on that.
 
-final_project_pytorch_spacy.ipynb is our next iteration using spacy embeddings trying to get a better representation of a mashed language and the final unmentioned file is our attempt using bert. to run any of the training files the data set must be downloaded from the link included in datasets.txt. We had utilized the french and English data sets provided by them. 
+final_project_pytorch_spacy.ipynb is our next iteration using spacy embeddings trying to get a better representation of a mashed language and the final unmentioned file is our attempt using bert. to run any of the training files the data set must be downloaded from the link included in datasets.txt. We had utilized the French and English data sets provided by them. 
+
+The relevant packages must be installed for each notebook and can be found in the imports section of each specific notebook.
 
 Afterwards the model can be trained from scratch using the provided notebooks or it can be loaded from the weight files in discriminator.pt or generator.pt (spaCy embeddings) or from discriminator_bert (1).pt , generator_bert (1).pt (BERT embeddings). 
 
